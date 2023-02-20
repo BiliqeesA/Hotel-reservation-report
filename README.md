@@ -1,4 +1,3 @@
-[Hotel Reservartion report updated.pdf](https://github.com/BiliqeesA/Hotel-reservation-report/files/10786326/Hotel.Reservartion.report.updated.pdf)
 ## HOTEL RESERVATION PROJECT
 
 Consider this scenario:
@@ -84,9 +83,6 @@ Across each segment, the guests make reservations for Room 1 and Room 3 mostly b
 The data can be visualized at a single glance on this dashboard.
 
 ![Annotation 2023-02-14 200306](https://user-images.githubusercontent.com/119788228/220161412-5a41564d-42dc-42aa-a890-cfd758a2dcaf.png)
-
-[Reservation project 3.pdf](https://github.com/BiliqeesA/Hotel-reservation-report/files/10786336/Reservation.project.3.pdf)
-
 
 With an overview of the analysis, new guests will most likely honor the reservations and make a reservation for either room 1 or room 3.
 
