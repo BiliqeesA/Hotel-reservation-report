@@ -1,4 +1,4 @@
-## HOTEL RESERVATION PROJECT
+# HOTEL RESERVATION PROJECT
 
 Consider this scenario:
 
