@@ -29,8 +29,8 @@ The hotel reservation data set is a CSV file that was downloaded from Kaggle @Ho
 ### DATA VISUALIZATION & INSIGHTS
 
 The project aims to forecast whether the guest will keep or cancel their reservation. The questions I'd be responding to are listed below.
-- The year-by-year reservations
-- The month-by-month reservations
+- The year-on-year reservations
+- The month-on-month reservations
 - The weekly reservations
 - The guest booking status
 - The percentage of returning visitors
@@ -82,7 +82,8 @@ Across each segment, the guests make reservations for Room 1 and Room 3 mostly b
 
 The data can be visualized at a single glance on this dashboard.
 
-![Annotation 2023-02-14 200306](https://user-images.githubusercontent.com/119788228/220161412-5a41564d-42dc-42aa-a890-cfd758a2dcaf.png)
+![Annotation 2023-02-14 200306](https://user-images.githubusercontent.com/119788228/220161412-5a41564d-42dc-42aa-a890-cfd758a2dcaf.png)  
+***Report canvas of hotel reservation***
 
 With an overview of the analysis, new guests will most likely honor the reservations and make a reservation for either room 1 or room 3.
 
