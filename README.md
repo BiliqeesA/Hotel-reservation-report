@@ -90,6 +90,7 @@ With an overview of the analysis, new guests will most likely honor the reservat
 ### RECOMMENDATION
 
 - More rooms like rooms 1 and 3 should be made available for new guests. 
+- Prior to the busiest month and holiday season, the hotel manager should invest in marketing and advertising or redesigning the hotel space to attract more guests and increase sales.
 - The hotel should also work more on its booking website traffic because new guests are most likely going to make reservations online.
 
 
